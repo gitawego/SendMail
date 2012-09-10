@@ -7,7 +7,7 @@ forked from http://www.php.su/articles/?cat=email&page=007
 
 example: 
 
-require_once ("oire_mail.php");
+    require_once ("oire_mail.php");
 
     /****************/
     /* Examples of sending mail with authentication */
